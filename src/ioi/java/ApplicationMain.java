@@ -26,7 +26,7 @@ public class ApplicationMain{
                 
                 System.out.println("my name is "  + name +
                           ".My age is" + age +
-                         ".My answer is  " + answer);
+                         ". My answer is  " + answer);
         }
                 
               
